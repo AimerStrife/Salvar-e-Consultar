@@ -1,0 +1,20 @@
+C:\Users\alunocmc\Source\Repos\Aula adilson ADS noite Rventura 08--09-2022\Aula adilson ADS noite Rventura 08--09-2022\bin\Debug\Aula adilson ADS noite Rventura 08--09-2022.exe.config
+C:\Users\alunocmc\Source\Repos\Aula adilson ADS noite Rventura 08--09-2022\Aula adilson ADS noite Rventura 08--09-2022\bin\Debug\Aula adilson ADS noite Rventura 08--09-2022.exe
+C:\Users\alunocmc\Source\Repos\Aula adilson ADS noite Rventura 08--09-2022\Aula adilson ADS noite Rventura 08--09-2022\bin\Debug\Aula adilson ADS noite Rventura 08--09-2022.pdb
+C:\Users\alunocmc\Source\Repos\Aula adilson ADS noite Rventura 08--09-2022\Aula adilson ADS noite Rventura 08--09-2022\obj\Debug\Aula adilson ADS noite Rventura 08--09-2022.csproj.AssemblyReference.cache
+C:\Users\alunocmc\Source\Repos\Aula adilson ADS noite Rventura 08--09-2022\Aula adilson ADS noite Rventura 08--09-2022\obj\Debug\Aula_adilson_ADS_noite_Rventura_08__09_2022.Form1.resources
+C:\Users\alunocmc\Source\Repos\Aula adilson ADS noite Rventura 08--09-2022\Aula adilson ADS noite Rventura 08--09-2022\obj\Debug\Aula_adilson_ADS_noite_Rventura_08__09_2022.Properties.Resources.resources
+C:\Users\alunocmc\Source\Repos\Aula adilson ADS noite Rventura 08--09-2022\Aula adilson ADS noite Rventura 08--09-2022\obj\Debug\Aula adilson ADS noite Rventura 08--09-2022.csproj.GenerateResource.cache
+C:\Users\alunocmc\Source\Repos\Aula adilson ADS noite Rventura 08--09-2022\Aula adilson ADS noite Rventura 08--09-2022\obj\Debug\Aula adilson ADS noite Rventura 08--09-2022.csproj.CoreCompileInputs.cache
+C:\Users\alunocmc\Source\Repos\Aula adilson ADS noite Rventura 08--09-2022\Aula adilson ADS noite Rventura 08--09-2022\obj\Debug\Aula adilson ADS noite Rventura 08--09-2022.exe
+C:\Users\alunocmc\Source\Repos\Aula adilson ADS noite Rventura 08--09-2022\Aula adilson ADS noite Rventura 08--09-2022\obj\Debug\Aula adilson ADS noite Rventura 08--09-2022.pdb
+C:\Users\alunocmc\Desktop\Adilson produto skt\Aula adilson ADS noite Rventura 08--09-2022\bin\Debug\Aula adilson ADS noite Rventura 08--09-2022.exe.config
+C:\Users\alunocmc\Desktop\Adilson produto skt\Aula adilson ADS noite Rventura 08--09-2022\bin\Debug\Aula adilson ADS noite Rventura 08--09-2022.exe
+C:\Users\alunocmc\Desktop\Adilson produto skt\Aula adilson ADS noite Rventura 08--09-2022\bin\Debug\Aula adilson ADS noite Rventura 08--09-2022.pdb
+C:\Users\alunocmc\Desktop\Adilson produto skt\Aula adilson ADS noite Rventura 08--09-2022\obj\Debug\Aula adilson ADS noite Rventura 08--09-2022.csproj.AssemblyReference.cache
+C:\Users\alunocmc\Desktop\Adilson produto skt\Aula adilson ADS noite Rventura 08--09-2022\obj\Debug\Aula_adilson_ADS_noite_Rventura_08__09_2022.Form1.resources
+C:\Users\alunocmc\Desktop\Adilson produto skt\Aula adilson ADS noite Rventura 08--09-2022\obj\Debug\Aula_adilson_ADS_noite_Rventura_08__09_2022.Properties.Resources.resources
+C:\Users\alunocmc\Desktop\Adilson produto skt\Aula adilson ADS noite Rventura 08--09-2022\obj\Debug\Aula adilson ADS noite Rventura 08--09-2022.csproj.GenerateResource.cache
+C:\Users\alunocmc\Desktop\Adilson produto skt\Aula adilson ADS noite Rventura 08--09-2022\obj\Debug\Aula adilson ADS noite Rventura 08--09-2022.csproj.CoreCompileInputs.cache
+C:\Users\alunocmc\Desktop\Adilson produto skt\Aula adilson ADS noite Rventura 08--09-2022\obj\Debug\Aula adilson ADS noite Rventura 08--09-2022.exe
+C:\Users\alunocmc\Desktop\Adilson produto skt\Aula adilson ADS noite Rventura 08--09-2022\obj\Debug\Aula adilson ADS noite Rventura 08--09-2022.pdb
